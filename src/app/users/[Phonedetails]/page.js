@@ -9,8 +9,6 @@ export default async function PhoneDetails(props) {
     console.log(userDetail)
     return (
         <div>
-
-
             <h4>
                 {
                     userDetail.title
